@@ -2,7 +2,7 @@
   "name": "rms-issue-212",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://asendia.github.io/rms-issue-212",
+  "homepage": "https://asendia.github.io/react-modal-sheet-issue-212",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
